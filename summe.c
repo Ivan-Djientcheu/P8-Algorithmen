@@ -14,7 +14,7 @@ int main()
         summe = summe + i;
         }
                               
-	 printf("\n  die Summe alle Zähle von 1 bis N=%d  ist %d", N, summe); // Ausgabe der Berechnung
+	 printf("\n die Summe alle Zähle von 1 bis N=%d  ist %d", N, summe); // Ausgabe der Berechnung
 return 0;
 
 }	
